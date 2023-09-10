@@ -10,7 +10,7 @@ Este trabalho se propõe a ser um guia sólido e substancial sobre o SMTP, explo
 
 ## Autores:
 Adriel L. V. Mori \
-Gabril Pires \
+Gabriel Pires \
 Felipe Galvão
 
 
