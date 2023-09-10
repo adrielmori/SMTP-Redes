@@ -1,4 +1,4 @@
-# Trabalho Final: SMTT
+# Trabalho Final: SMTP
 
 ## Descrição
 
